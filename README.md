@@ -1,4 +1,3 @@
-
 # Fiber Optic Digital Link Experiment (660nm & 950nm)
 
 ## AIM
