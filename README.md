@@ -1,4 +1,3 @@
-Experimental-verification-of-frequency-response-of-Digital-fiber-optic-link
 
 # Fiber Optic Digital Link Experiment (660nm & 950nm)
 
